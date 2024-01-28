@@ -8,7 +8,7 @@
 
 💞️ Collaboration is the key to unlocking new possibilities. I'm actively seeking opportunities to collaborate on FiveM projects, exploring new ideas, and sharing knowledge with fellow developers. Whether it's creating a new script, exploring innovative features, or simply bouncing off ideas, I'm eager to connect with like-minded individuals.
 
-📫 Feel free to reach out to me via [email protected] or connect with me on [https://www.instagram.com/yarpii/](https://www.instagram.com/yarpii/). I'm always open to discussing projects, sharing insights, and fostering connections with fellow developers.
+📫 Feel free to reach out. I'm always open to discussing projects, sharing insights, and fostering connections with fellow developers.
 
 I'm excited to embark on this journey with you and share my passion for software development. Let's create something extraordinary!
 
