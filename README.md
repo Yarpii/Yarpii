@@ -1,17 +1,74 @@
-## Welcome to Yarpii's Playground
+# 👋 Hey, I’m Yarpii
 
-👋 Hi, I'm Yarpii, a passionate and enthusiastic developer with a keen eye for creating innovative and efficient software solutions. I'm thrilled to share my journey with you and showcase my work.
+Founder • Developer • System Architect  
+A creator who grew up in the world of **modding**, scripting and tinkering — now building entire ecosystems of software, data and creative worlds.
 
-👀 My primary focus lies in modifying scripts to enhance their functionality and adaptability. I'm particularly intrigued by the potential of FiveM scripts to transform the GTA 5 gaming experience.
+---
 
-🌱 Currently, I'm immersing myself in the art of house cleaning, learning new techniques and strategies to maintain a clean and organized living space. The journey is ongoing, but I'm embracing the challenges and enjoying the sense of accomplishment.
+## 🧩 What I Build
 
-💞️ Collaboration is the key to unlocking new possibilities. I'm actively seeking opportunities to collaborate on FiveM projects, exploring new ideas, and sharing knowledge with fellow developers. Whether it's creating a new script, exploring innovative features, or simply bouncing off ideas, I'm eager to connect with like-minded individuals.
+I build and connect systems — from small game scripts to entire company architectures.  
+My work spans both **creative** and **technical** dimensions:
 
-📫 Feel free to reach out. I'm always open to discussing projects, sharing insights, and fostering connections with fellow developers.
+| Layer | Project | Description |
+|-------|----------|-------------|
+| ⚙️ **Frameworks** | [**Solvyn**](https://solvyn.dev) | Schema-driven PHP framework that generates models, controllers and docs from SQL. |
+| 📊 **Automation** | [**Metrics Dynamics**](https://metricsdynamics.com) | SaaS platform for SEO, GEO and data automation. |
+| 🛵 **Commerce** | [**Scooter Dynamics**](https://scooterdynamics.com) | Smart mobility retail & logistics brand. |
+| 🏢 **Holding** | [**Trednets BV**](https://trednets.com) | Corporate backbone — IP ownership, structure, continuity. |
+| 🎭 **Creative IP** | [**Onore Online**](https://onore.online) | Browser-based underworld RPG — experimental economy & society simulator. |
+| 📚 **Open Source** | [**Syslogine**](https://syslogine.com) | Knowledge hub, tutorials, and dev research space. |
 
-I'm excited to embark on this journey with you and share my passion for software development. Let's create something extraordinary!
+---
 
-## About Yarpii
+## 🔧 Modding & Origins
 
-Yarpii is a prolific developer with over 97 repositories on GitHub, showcasing their expertise in various programming languages and technologies. Their most popular project, Coffee, is a GTA 5 roleplay framework that has been forked over 1,000 times. Yarpii is also the founder of Syslogine, a web hosting company that provides software development and consulting services.
+Before frameworks and companies, I started by **modding games** —  
+creating custom **FiveM** and **GTA V** scripts, building roleplay frameworks and gameplay systems.
+
+That passion for modifying systems never left.  
+It evolved from “editing Lua scripts” into “editing the real world” —  
+architecting companies, APIs and frameworks with the same curiosity.
+
+> 🧠 *Modding taught me that every system can be understood — and therefore, redesigned.*
+
+I still maintain and experiment with open-source modding tools, utilities and sandbox projects here on GitHub.  
+You’ll find repositories ranging from **game scripting**, **automation logic**, to **infrastructure orchestration**.
+
+---
+
+## ⚙️ Current Tech Stack
+
+- **Languages:** PHP, JS, Lua, SQL, Bash  
+- **Backend:** Slim, Eloquent ORM, Alpine Linux  
+- **Frontend:** TailwindCSS, DaisyUI, Alpine.js  
+- **Infra:** Proxmox VE, Nginx, Cloudflare, 10G LAN  
+- **Docs & Tools:** Obsidian, Markdown, Docusaurus  
+
+---
+
+## 🧠 Philosophy
+
+> *“Build to endure, not to exit.”*  
+
+My approach blends engineering and artistry — systems should be efficient, elegant, and timeless.  
+From game code to legal structures, I try to make every layer consistent, documented and scalable.
+
+---
+
+## 💬 Connect
+
+- 🌐 [trednets.com](https://trednets.com) — Holding & Structure  
+- 🌐 [metricsdynamics.com](https://metricsdynamics.com) — SaaS Platform  
+- 🌐 [scooterdynamics.com](https://scooterdynamics.com) — Retail Brand  
+- 🌐 [solvyn.dev](https://solvyn.dev) — Framework  
+- 🌐 [onore.online](https://onore.online) — Game Project  
+- 🌐 [syslogine.com](https://syslogine.com) — Open Source  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yarpii)  
+- 🧠 [GitHub](https://github.com/Yarpii)
+
+---
+
+> 🖋️ *“Modding taught me creativity. Engineering taught me structure.  
+> Now I build systems that merge both.”*  
+> — Yarpii
