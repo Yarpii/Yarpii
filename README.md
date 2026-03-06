@@ -1,78 +1,62 @@
 # 👋 Hey, I’m Yarpii
 
-Founder • Developer • System Architect  
-Creator of **Structbrew**, a living framework ecosystem for building self-documenting software.
+Founder • Developer • Systems Architect
 
-A systems thinker who evolved from scripting and technical experimentation  
-into building structured ecosystems of software, data and scalable organizations.
+I design structured ecosystems of software, data and organizations.
+
+My work focuses on building systems that remain understandable, adaptable and durable over time — from low-level tooling to full organizational architectures.
 
 ---
 
-## 🧩 What I Build
+## 🧠 Approach
 
-I design and connect layered systems — from lightweight automation tools  
-to full company architectures.
+I approach technology as a set of interconnected systems rather than isolated tools.
 
-My work bridges engineering, design, and strategy —  
-each layer intentionally reinforcing the next.
-
-| Layer | Project | Description |
-|-------|----------|-------------|
-| ⚙️ Frameworks | Structbrew | Schema-driven PHP & Go framework factory that generates applications from structured data models. |
-| 📊 Automation | Metrics Dynamics | SaaS platform focused on data analytics and automation. |
-| 🛵 Commerce | Scooter Dynamics | Smart mobility retail & logistics brand. |
-| ⚡ Identity | Volt.cx | Digital identity and unified access layer. |
-| 🏢 Holding | Trednets BV | Corporate backbone ensuring IP ownership and continuity. |
-| 🎭 Creative | Onore Online | Browser-based simulation project exploring digital economies and social systems. |
-| 📚 Open Source | Syslogine | Knowledge hub, tutorials, and developer research space. |
+Every layer — code, infrastructure, documentation and organizational structure — should reinforce the others.  
+The goal is clarity, longevity and maintainability.
 
 ---
 
 ## 🔍 Origins
 
-My early technical journey began with scripting and experimenting with existing systems —  
-learning how complex architectures function by dissecting and rebuilding them.
+My technical journey began with scripting and experimentation — taking apart existing systems to understand how they worked internally.
 
-That curiosity evolved into a structured approach to software design:  
-understand deeply, then rebuild intentionally.
+That curiosity evolved into a broader philosophy:
 
-> 🧠 *Every system can be understood — and therefore improved.*
+Understand deeply.  
+Then rebuild intentionally.
 
-Those early explorations shaped the modular and generative philosophy behind Structbrew.
-
----
-
-## ⚙️ Current Tech Stack
-
-- Languages: PHP, Go, JavaScript, SQL, Bash  
-- Backend: Slim, Eloquent ORM  
-- Frontend: TailwindCSS, DaisyUI, Alpine.js  
-- Infrastructure: Linux-based environments, containerized services  
-- Documentation: Markdown-based systems & structured documentation tooling  
+> Every system can be understood — and therefore improved.
 
 ---
 
-## 🧠 Philosophy
+## ⚙️ Technology
 
-“Build to endure, not to exit.”
+Languages  
+PHP • Go • JavaScript • SQL • Bash  
 
-Systems should be efficient, elegant and sustainable.  
-From codebases to corporate structures, every layer is designed  
-to be modular, maintainable and transparent.
+Infrastructure  
+Linux environments • containerized services  
+
+Frontend  
+TailwindCSS • Alpine.js  
+
+Documentation  
+Structured Markdown systems and generative documentation tooling
 
 ---
 
-## 💬 Connect
+## 🧩 Philosophy
 
-- structbrew.com  
-- volt.cx  
-- metricsdynamics.com  
-- scooterdynamics.com  
-- trednets.com  
-- onore.online  
-- syslogine.com  
-- LinkedIn  
-- GitHub  
+Build to endure, not to exit.
+
+Well-designed systems should remain elegant and maintainable — whether they are codebases, platforms or organizations.
+
+---
+
+## 🌐
+
+trednets.com
 
 ---
 
